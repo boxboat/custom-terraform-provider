@@ -2,7 +2,7 @@
 
 ## About Boxboat
 
-This source code is for the blog on [boxboat.com](boxboat.com). At Boxboat, we bring vast industry experience to the table, and our engineers
+This source code is for the blog on [boxboat.com](https://boxboat.com). At Boxboat, we bring vast industry experience to the table, and our engineers
 have worked across different clouds, architectures, and environments. Reach out if you're interested in talking Terraform, DevOps, or anything
 cloud!
 
