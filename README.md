@@ -10,4 +10,4 @@ cloud!
 
 The blog post talks about how to write your own custom Terraform Provider, and why you might do that.
 
-Check out the full blog post [here](https://boxboat.com/2020/01/03/writing-a-custom-terraform-provider).
+Check out the full blog post [here](https://boxboat.com/2020/02/04/writing-a-custom-terraform-provider).
